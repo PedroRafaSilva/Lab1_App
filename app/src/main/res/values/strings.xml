@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab1_App</string>
+    <string name="text_view_1_port">This is the Activity 1 on Portrait Mode!</string>
+    <string name="text_view_1_land">This is the Activity 1 on Landscape Mode!</string>
+    <string name="text_btn_1">Click here to go to Activity 2!</string>
+    <string name="text_view_2_port">This is the Activity 2 on Portrait Mode!</string>
+    <string name="text_view_2_land">This is the Activity 2 on Landscape Mode!</string>
+    <string name="text_btn_2">Click here to go back to Activity 1!</string>
+    <string name="my_data">Name: Pedro Silva\nAge: 20 years\nAddress: Palme, Barcelos</string>
+    <string name="my_data_title">Student Info</string>
+    <string name="language_text_port">Language on Portrait Mode</string>
+    <string name="language_text_land">Language on Landscape Mode</string>
+    <string name="english_btn">English</string>
+    <string name="portuguese_btn">Portuguese</string>
+    <string name="french_btn">French</string>
+    <string name="spanish_btn">Spanish</string>
+    <string name="go_back">Return</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1_App</string>
+    <string name="text_view_1_port">Esta es la Actividad 1 en Modo Retrato!</string>
+    <string name="text_view_1_land">Esta es la Actividad 1 en Modo Paisaje!</string>
+    <string name="text_btn_1">Haz clic aquí para ir a la Actividad 2!</string>
+    <string name="text_view_2_port">Esta es la Actividad 2 en Modo Retrato!</string>
+    <string name="text_view_2_land">Esta es la Actividad 2 en Modo Paisaje!</string>
+    <string name="text_btn_2">Haz clic aquí para volver a la Actividad 1!</string>
+    <string name="my_data">Nombre: Pedro Silva\nEdad: 20 años\nDirección: Palme, Barcelos</string>
+    <string name="my_data_title">Información del Estudiante</string>
+    <string name="language_text_port">Idioma en Modo Retrato</string>
+    <string name="language_text_land">Idioma en Modo Paisaje</string>
+    <string name="english_btn">Inglés</string>
+    <string name="portuguese_btn">Portugués</string>
+    <string name="french_btn">Francés</string>
+    <string name="spanish_btn">Español</string>
+    <string name="go_back">Volver</string>
+</resources>
