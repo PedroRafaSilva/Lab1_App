@@ -51,6 +51,7 @@
             android:layout_width="match_parent"
             android:layout_below="@id/textureView3"
             android:layout_margin="20dp"
+            android:backgroundTint="@color/ornage"
             android:text="@string/text_btn_2">
         </Button>
 

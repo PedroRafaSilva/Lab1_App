@@ -33,6 +33,7 @@
                 android:layout_height="100dp"
                 android:layout_margin="10dp"
                 android:text="@string/text_btn_1"
+                android:backgroundTint="@color/green"
                 tools:ignore="TextSizeCheck">
             </Button>
 
@@ -42,6 +43,7 @@
             android:layout_height="100dp"
             android:layout_margin="10dp"
             android:text="@string/language_text_land"
+            android:backgroundTint="@color/blue"
             tools:ignore="TextSizeCheck">
         </Button>
 
